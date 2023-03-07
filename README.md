@@ -1,6 +1,7 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=react&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=react&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=react&layout=compact" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=react&layout=compact)
+
 <!--
 **the-hyperoot/the-hyperoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=react&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=react&layout=compact)
 -->
