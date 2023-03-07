@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-hyperoot)](https://github.com/the-hyperoot/github-readme-stats)
+
 <!--
 **the-hyperoot/the-hyperoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
