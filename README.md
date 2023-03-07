@@ -1,8 +1,6 @@
-### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=github_dark&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=github_dark)
 <!--
 **the-hyperoot/the-hyperoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
