@@ -1,5 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=react&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=react&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-hyperoot&theme=github_dark_dimmed&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hyperoot&theme=github_dark_dimmed&layout=compact" />
 
 
 <!--
