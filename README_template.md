@@ -13,22 +13,22 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 
 ## Connect with Me
 
-<a href="https://github.com/HYP3R00T" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/HYP3R00T" target="_blank">
 <img src="https://img.shields.io/badge/github-24273a?style=for-the-badge&logo=github&logoColor=white" style="height: 32px"/>
 </a>
-<a href="https://www.linkedin.com/in/rajesh-kumar-das/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/rajesh-kumar-das/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-24273a?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 32px"/>
 </a>
-<a href="https://mastodon.social/@hyp3r00t" target="_blank" style="text-decoration: none;">
+<a href="https://mastodon.social/@hyp3r00t" target="_blank">
 <img src="https://img.shields.io/badge/mastodon-24273a?style=for-the-badge&logo=mastodon&logoColor=white" style="height: 32px"/>
 </a>
-<a href="https://www.youtube.com/@hyp3r00t" target="_blank" style="text-decoration: none;">
+<a href="https://www.youtube.com/@hyp3r00t" target="_blank">
 <img src="https://img.shields.io/badge/youtube-24273a?style=for-the-badge&logo=youtube&logoColor=white" style="height: 32px"/>
 </a>
-<a href="https://discord.gg/tWZRBhaPhd" target="_blank" style="text-decoration: none;">
+<a href="https://discord.gg/tWZRBhaPhd" target="_blank">
 <img src="https://img.shields.io/badge/discord-24273a?style=for-the-badge&logo=discord&logoColor=white" style="height: 32px"/>
 </a>
-<a href="https://hashnode.com/@hyperoot" target="_blank" style="text-decoration: none;">
+<a href="https://hashnode.com/@hyperoot" target="_blank">
 <img src="https://img.shields.io/badge/hashnode-24273a?style=for-the-badge&logo=hashnode&logoColor=white" style="height: 32px"/>
 </a>
 </div>
@@ -38,7 +38,7 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest YouTube Videos
 </div>
 {% for title, link in videos %}
-- <a href="{{ link }}" target="_blank" style="text-decoration: none;">{{ title }}
+- <a href="{{ link }}" target="_blank">{{ title }}
 </a>
 {% endfor %}
 
@@ -47,7 +47,7 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest Blog Posts
 </div>
 {% for title, link in blogs %}
-- <a href="{{ link }}" target="_blank" style="text-decoration: none;">{{ title }}
+- <a href="{{ link }}" target="_blank">{{ title }}
 </a>
 {% endfor %}
 
@@ -55,16 +55,16 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 
 ## Certificates
 
-<a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank" style="text-decoration: none;">
+<a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
 <img src="./assets/devops-essentials.2-removebg-preview.png" style="height: 180px"/>
 </a>
-<a href="https://www.credly.com/badges/3bc12e55-8398-4d79-ab64-b569e7eb0858/public_url" target="_blank" style="text-decoration: none;">
+<a href="https://www.credly.com/badges/3bc12e55-8398-4d79-ab64-b569e7eb0858/public_url" target="_blank">
 <img src="./assets/introduction-to-agile-development-and-scrum-removebg-preview.png" style="height: 180px"/>
 </a>
-<a href="https://www.credly.com/badges/678e8685-1559-4a48-a69a-4c3febb53fbd/public_url" target="_blank" style="text-decoration: none;">
+<a href="https://www.credly.com/badges/678e8685-1559-4a48-a69a-4c3febb53fbd/public_url" target="_blank">
 <img src="./assets/python-for-data-science-and-ai-removebg-preview.png" style="height: 180px"/>
 </a>
-<a href="https://www.credly.com/badges/be903c6e-bc08-4117-bb7e-942e5364e32b/public_url" style="text-decoration: none;">
+<a href="https://www.credly.com/badges/be903c6e-bc08-4117-bb7e-942e5364e32b/public_url">
 <img src="./assets/microsoft-certified-azure-fundamentals.png" style="height: 180px"/>
 </a>
 </div>
@@ -88,9 +88,3 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
