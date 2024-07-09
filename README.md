@@ -100,3 +100,9 @@ I am a python developer who loves to [learn in public](https://mindmaze.hyperoot
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
