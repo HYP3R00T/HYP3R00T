@@ -1,4 +1,4 @@
-<div style="background-color:#1e2030; width: 100vw;">
+<div style="background-color:#1e2030; width: 100vw">
 
 <!-- Banner -->
 <img src="./assets/banner.jpeg" style="width: 100vw"/>
@@ -39,24 +39,16 @@ I am a python developer. I [learn in public](https://mindmaze.hyperoot.dev/).
 ## Latest YouTube Videos
 </div>
 
-
-- [How to make Python type safe? | Python Quickie](https://www.youtube.com/watch?v=0GykkEEOxkA)
-
-- [Mastering Exception Handling in Python: A Beginner&#39;s Guide | Python Quickie](https://www.youtube.com/watch?v=zYW3f9kMwbA)
-
-- [How to make python module executable? | Python Quickie](https://www.youtube.com/watch?v=sXtd6Ec_osw)
-
+{% for title, link in videos %}
+- [{{ title }}]({{ link }})
+{% endfor %}
 
 <div align="center">
 
 ## Latest Blog Posts
 </div>
 
-
-- [Exception Handling in Python: A Detailed Guide](https://hyperoot.dev/posts/exception-handling-in-python-a-detailed-guide/)
-
-- [Cheatsheetify](https://hyperoot.dev/posts/cheatsheetify/)
-
-- [Export pip packages list](https://hyperoot.dev/posts/export-pip-packages-list/)
-
+{% for title, link in blogs %}
+- [{{ title }}]({{ link }})
+{% endfor %}
 </div>
