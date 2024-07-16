@@ -38,6 +38,15 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest YouTube Videos
 </div>
 
+- <a href="https://www.youtube.com/watch?v=0GykkEEOxkA" target="_blank">How to make Python type safe? | Python Quickie
+</a>
+
+- <a href="https://www.youtube.com/watch?v=zYW3f9kMwbA" target="_blank">Mastering Exception Handling in Python: A Beginner&#39;s Guide | Python Quickie
+</a>
+
+- <a href="https://www.youtube.com/watch?v=sXtd6Ec_osw" target="_blank">How to make python module executable? | Python Quickie
+</a>
+
 
 <div align="center">
 

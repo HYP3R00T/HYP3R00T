@@ -27,6 +27,7 @@ def fetch_latest_blog_posts():
 def fetch_latest_youtube_videos(api_key, channel_id):
     url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&order=date&part=snippet&type=video&maxResults=3"
     response = requests.get(url)
+    print(response.json())
     items = response.json().get("items", [])
     video_links = []
     for item in items:
