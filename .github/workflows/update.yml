@@ -27,3 +27,11 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "CI: readme updated"
+          git push
