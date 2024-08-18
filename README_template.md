@@ -58,6 +58,9 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 <a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
 <img src="./assets/devops-essentials.2-removebg-preview.png" style="height: 180px"/>
 </a>
+<a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
+<img src="./assets/Linux-command-and-shell-scripting.png" style="height: 180px"/>
+</a>
 <a href="https://www.credly.com/badges/3bc12e55-8398-4d79-ab64-b569e7eb0858/public_url" target="_blank">
 <img src="./assets/introduction-to-agile-development-and-scrum-removebg-preview.png" style="height: 180px"/>
 </a>
