@@ -53,13 +53,13 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest Blog Posts
 </div>
 
-- <a href="https://hyperoot.dev/posts/organizing-vscode-settings/" target="_blank">Organizing VSCode Settings with a Custom Extension
+- <a href="https://hyperoot.dev/article/organizing-vscode-settings/" target="_blank">Organizing VSCode Settings with a Custom Extension
 </a>
 
-- <a href="https://hyperoot.dev/posts/exception-handling-in-python-a-detailed-guide/" target="_blank">Exception Handling in Python: A Detailed Guide
+- <a href="https://hyperoot.dev/article/exception-handling-in-python-a-detailed-guide/" target="_blank">Exception Handling in Python: A Detailed Guide
 </a>
 
-- <a href="https://hyperoot.dev/posts/cheatsheetify/" target="_blank">Cheatsheetify
+- <a href="https://hyperoot.dev/article/cheatsheetify/" target="_blank">Cheatsheetify
 </a>
 
 
