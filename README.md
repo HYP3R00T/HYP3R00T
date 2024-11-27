@@ -38,13 +38,13 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest YouTube Videos
 </div>
 
+- <a href="https://www.youtube.com/watch?v=Qe6tOWsu4o4" target="_blank">Omnishare - Introduction &amp; Setup (Part 1) | Practical Projects
+</a>
+
 - <a href="https://www.youtube.com/watch?v=0GykkEEOxkA" target="_blank">How to make Python type safe? | Python Quickie
 </a>
 
 - <a href="https://www.youtube.com/watch?v=zYW3f9kMwbA" target="_blank">Mastering Exception Handling in Python: A Beginner&#39;s Guide | Python Quickie
-</a>
-
-- <a href="https://www.youtube.com/watch?v=sXtd6Ec_osw" target="_blank">How to make python module executable? | Python Quickie
 </a>
 
 
