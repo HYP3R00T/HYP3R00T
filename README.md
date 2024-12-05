@@ -67,6 +67,15 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 
 ## Certificates
 
+<a href="https://www.credly.com/badges/be903c6e-bc08-4117-bb7e-942e5364e32b/public_url">
+<img src="./assets/microsoft-certified-azure-fundamentals.png" style="height: 180px"/>
+</a>
+<a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
+<img src="./assets/google_it_automation_with_python_professional_certificate.png" style="height: 180px"/>
+</a>
+<a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
+<img src="./assets/ai_essentials.png" style="height: 180px"/>
+</a>
 <a href="https://www.credly.com/badges/868906dd-a866-41de-8cac-05f7245eb885/public_url" target="_blank">
 <img src="./assets/devops-essentials.2-removebg-preview.png" style="height: 180px"/>
 </a>
@@ -79,8 +88,11 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 <a href="https://www.credly.com/badges/678e8685-1559-4a48-a69a-4c3febb53fbd/public_url" target="_blank">
 <img src="./assets/python-for-data-science-and-ai-removebg-preview.png" style="height: 180px"/>
 </a>
-<a href="https://www.credly.com/badges/be903c6e-bc08-4117-bb7e-942e5364e32b/public_url">
-<img src="./assets/microsoft-certified-azure-fundamentals.png" style="height: 180px"/>
+<a href="https://www.credly.com/badges/678e8685-1559-4a48-a69a-4c3febb53fbd/public_url" target="_blank">
+<img src="./assets/software_engineering_essentials.png" style="height: 180px"/>
+</a>
+<a href="https://www.credly.com/badges/678e8685-1559-4a48-a69a-4c3febb53fbd/public_url" target="_blank">
+<img src="./assets/building_generative_ai_powered_applications_with_python.png" style="height: 180px"/>
 </a>
 </div>
 
