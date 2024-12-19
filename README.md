@@ -53,13 +53,13 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest Blog Posts
 </div>
 
+- <a href="https://hyperoot.dev/article/how-to-install-linux-part-1-preparation/" target="_blank">How to Install Linux? - Part 1: Preparation
+</a>
+
 - <a href="https://hyperoot.dev/article/dockerfile-best-practices/" target="_blank">Dockerfile Best Practices
 </a>
 
 - <a href="https://hyperoot.dev/article/securing-ssh-server/" target="_blank">Secure your SSH Server: Best Practices
-</a>
-
-- <a href="https://hyperoot.dev/article/minimal-and-effective-tmux/" target="_blank">Minimal and Effective Tmux
 </a>
 
 
