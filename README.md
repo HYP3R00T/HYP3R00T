@@ -53,10 +53,10 @@ I am a Python developer who loves to [learn in public](https://mindmaze.hyperoot
 ## Latest Blog Posts
 </div>
 
-- <a href="https://v4.hyperoot.dev/article/a-trail/" target="_blank">A trail
+- <a href="https://v4.hyperoot.dev/article/test-github-action-pipeline-locally/" target="_blank">Test GitHub Action Pipeline Locally
 </a>
 
-- <a href="https://v4.hyperoot.dev/article/cheatsheetify/" target="_blank">Cheatsheetify
+- <a href="https://v4.hyperoot.dev/article/how-to-install-linux-part-1-preparation/" target="_blank">How to Install Linux? - Part 1: Preparation
 </a>
 
 - <a href="https://v4.hyperoot.dev/article/dockerfile-best-practices/" target="_blank">Dockerfile Best Practices
