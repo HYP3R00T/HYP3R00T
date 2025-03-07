@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "./schema/config.schema.json": "config.yaml"
+    },
+    "markdownlint.configFile": ".markdownlint.json"
+}

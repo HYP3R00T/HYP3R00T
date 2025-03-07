@@ -1,0 +1,152 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "GitHub Profile Kit Config",
+    "description": "A schema for configuring a GitHub Profile Kit using modular sections.",
+    "type": "object",
+    "properties": {
+        "banner": {
+            "type": "object",
+            "description": "Section for displaying a banner image.",
+            "properties": {
+                "image": {
+                    "type": "string",
+                    "description": "Path or URL to the banner image."
+                },
+                "alt": {
+                    "type": "string",
+                    "description": "Alternative text for the banner image."
+                }
+            },
+            "required": [
+                "image",
+                "alt"
+            ],
+            "additionalProperties": false
+        },
+        "about": {
+            "type": "object",
+            "description": "Section for displaying personal information and a brief bio. Provide either a 'path' to an external Markdown file or inline 'content'. At least one is required.",
+            "properties": {
+                "path": {
+                    "type": "string",
+                    "description": "Path to an external Markdown file whose content will be inserted."
+                },
+                "content": {
+                    "type": "string",
+                    "description": "Inline Markdown content to be inserted."
+                }
+            },
+            "anyOf": [
+                {
+                    "required": [
+                        "path"
+                    ]
+                },
+                {
+                    "required": [
+                        "content"
+                    ]
+                }
+            ],
+            "additionalProperties": false
+        },
+        "badges": {
+            "type": "object",
+            "description": "Section for displaying badges. Provide a name (optional) and the URL generated from Shields.io for each badge.",
+            "properties": {
+                "list": {
+                    "type": "array",
+                    "description": "A list of badge objects.",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "type": "string",
+                                "description": "Optional: The name or label for the badge. If omitted, the badge will display its default text."
+                            },
+                            "url": {
+                                "type": "string",
+                                "description": "The Shields.io URL for the badge image."
+                            }
+                        },
+                        "required": [
+                            "url"
+                        ],
+                        "additionalProperties": false
+                    },
+                    "minItems": 1
+                }
+            },
+            "required": [
+                "list"
+            ],
+            "additionalProperties": false
+        },
+        "custom": {
+            "type": "object",
+            "description": "A custom block that allows insertion of additional Markdown content. Provide either a 'path' to an external Markdown file or inline 'content'. At least one is required.",
+            "properties": {
+                "path": {
+                    "type": "string",
+                    "description": "Path to an external Markdown file whose content will be inserted."
+                },
+                "content": {
+                    "type": "string",
+                    "description": "Inline Markdown content to be inserted."
+                }
+            },
+            "anyOf": [
+                {
+                    "required": [
+                        "path"
+                    ]
+                },
+                {
+                    "required": [
+                        "content"
+                    ]
+                }
+            ],
+            "additionalProperties": false
+        },
+        "blog": {
+            "type": "object",
+            "properties": {
+                "rss_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "The URL of the RSS/Atom feed."
+                },
+                "max_posts": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 10,
+                    "default": 5,
+                    "description": "The maximum number of blog posts to fetch."
+                }
+            },
+            "required": [
+                "rss_url"
+            ],
+            "additionalProperties": false
+        },
+        "youtube": {
+            "type": "object",
+            "properties": {
+                "channel_id": {
+                    "type": "string",
+                    "description": "The YouTube channel ID to fetch videos from."
+                },
+                "max_videos": {
+                    "type": "integer",
+                    "default": 5,
+                    "description": "The maximum number of videos to retrieve."
+                }
+            },
+            "required": [
+                "channel_id"
+            ]
+        }
+    },
+    "additionalProperties": true
+}

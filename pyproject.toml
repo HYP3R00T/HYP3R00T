@@ -1,0 +1,49 @@
+[project]
+name = "github-profile-kit"
+version = "0.1.0"
+description = "github-profile-kit"
+readme = "README.md"
+requires-python = ">=3.13"
+license = "MIT"
+authors = [{ name = "Hyperoot", email = "rajesh@hyperoot.dev" }]
+dependencies = [
+    "dotenv>=0.9.9",
+    "jinja2>=3.1.6",
+    "pre-commit>=4.1.0",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = ["ruff>=0.9.7"]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.ruff.lint]
+select = [
+    "E", # pycodestyle errors
+    "W", # pycodestyle warnings
+    "F", # pyflakes
+    "I", # isort
+    "C", # flake8-comprehensions
+    "B", # flake8-bugbear
+]
+ignore = [
+    "E501", # line too long
+    "C901", # too complex
+]
+
+[tool.ruff.lint.isort]
+order-by-type = true
+relative-imports-order = "closest-to-furthest"
+extra-standard-library = ["typing"]
+section-order = [
+    "future",
+    "standard-library",
+    "third-party",
+    "first-party",
+    "local-folder",
+]

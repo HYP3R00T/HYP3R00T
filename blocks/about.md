@@ -1,0 +1,1 @@
+Hi, I'm Rajesh! I'm passionate about DevOps focusing on automation, Kubernetes, and cloud technologies. I like to [learn in public](https://rosetta.hyperoot.dev/). I enjoy sharing my knowledge through [blogs](https://hyperoot.dev/) and creating content on [YouTube](https://www.youtube.com/@hyp3r00t).

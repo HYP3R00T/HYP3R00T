@@ -1,0 +1,45 @@
+banner:
+  image: './assets/animated_banner.gif'
+  alt: "Banner"
+
+about:
+  path: "./blocks/about.md"
+
+blog:
+  rss_url: "https://hyperoot.dev/rss.xml"
+  max_posts: 5
+
+youtube:
+  channel_id: "UCcs3Tsf6NlGNMAnwyUopaZA"
+  max_videos: 5
+
+badges:
+  list:
+  - name: Python
+    url: "https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=css3&logoColor=white"
+  - name: AWS
+    url: "https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+  - name: Docker
+    url: "https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+  - name: GIT
+    url: "https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"
+  - name: LINUX
+    url: "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  - name: Bash
+    url: "https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black"
+  - name: HTML5
+    url: "https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  - name: CSS3
+    url: "https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+  - name: JavaScript
+    url: "https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  - name: TypeScript
+    url: "https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+  - name: Astro
+    url: "https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white"
+  - name: NodeJS
+    url: "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+  - name: React
+    url: "https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"
+  - name: TailwindCSS
+    url: "https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
