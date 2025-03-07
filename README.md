@@ -3,11 +3,11 @@
 Hi, I'm Rajesh! I'm passionate about DevOps focusing on automation, Kubernetes, and cloud technologies. I like to [learn in public](https://rosetta.hyperoot.dev/). I enjoy sharing my knowledge through [blogs](https://hyperoot.dev/) and creating content on [YouTube](https://www.youtube.com/@hyp3r00t).
 
 ## 📖 Latest Blog Posts
-- [Test GitHub Action Pipeline Locally](https://v4.hyperoot.dev/article/test-github-action-pipeline-locally/)
-- [How to Install Linux? - Part 1: Preparation](https://v4.hyperoot.dev/article/how-to-install-linux-part-1-preparation/)
-- [Dockerfile Best Practices](https://v4.hyperoot.dev/article/dockerfile-best-practices/)
-- [Secure your SSH Server: Best Practices](https://v4.hyperoot.dev/article/securing-ssh-server/)
-- [Minimal and Effective Tmux](https://v4.hyperoot.dev/article/minimal-and-effective-tmux/)
+- [Test GitHub Action Pipeline Locally](https://hyperoot.dev/article/test-github-action-pipeline-locally/)
+- [How to Install Linux? - Part 1: Preparation](https://hyperoot.dev/article/how-to-install-linux-part-1-preparation/)
+- [Dockerfile Best Practices](https://hyperoot.dev/article/dockerfile-best-practices/)
+- [Secure your SSH Server: Best Practices](https://hyperoot.dev/article/securing-ssh-server/)
+- [Minimal and Effective Tmux](https://hyperoot.dev/article/minimal-and-effective-tmux/)
 
 ## 🎥 Latest YouTube Videos
 
