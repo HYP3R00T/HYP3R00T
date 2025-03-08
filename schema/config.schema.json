@@ -146,6 +146,42 @@
             "required": [
                 "channel_id"
             ]
+        },
+        "social": {
+            "type": "object",
+            "description": "Configuration for social media links.",
+            "properties": {
+                "links": {
+                    "type": "array",
+                    "description": "List of social media platforms with user handles and URLs.",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "platform": {
+                                "type": "string",
+                                "description": "Name of the social media platform (e.g., GitHub, LinkedIn)."
+                            },
+                            "handle": {
+                                "type": "string",
+                                "description": "The user's handle or username on the platform."
+                            },
+                            "url": {
+                                "type": "string",
+                                "format": "uri",
+                                "description": "The URL to the user's profile on the platform."
+                            }
+                        },
+                        "required": [
+                            "platform",
+                            "handle",
+                            "url"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "links"
+            ]
         }
     },
     "additionalProperties": true

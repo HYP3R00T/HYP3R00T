@@ -1,9 +1,41 @@
-banner:
-  image: './assets/animated_banner.gif'
-  alt: "Banner"
+# banner:
+#   image: './assets/animated_banner.gif'
+#   alt: "Banner"
 
 about:
   path: "./blocks/about.md"
+
+# social:
+#   links:
+#   - platform: "GitHub"
+#     handle: "HYP3R00T"
+#     url: "https://github.com/HYP3R00T"
+#     badge: "https://img.shields.io/badge/GitHub-HYP3R00T-24273a?style=for-the-badge"
+
+#   - platform: "LinkedIn"
+#     handle: "rajesh-kumar-das"
+#     url: "https://www.linkedin.com/in/rajesh-kumar-das/"
+#     badge: "https://img.shields.io/badge/LinkedIn-rajesh--kumar--das-0A66C2?style=for-the-badge"
+
+#   - platform: "Mastodon"
+#     handle: "@hyp3r00t"
+#     url: "https://mastodon.social/@hyp3r00t"
+#     badge: "https://img.shields.io/badge/Mastodon-hyp3r00t-6364FF?style=for-the-badge"
+
+#   - platform: "YouTube"
+#     handle: "@hyp3r00t"
+#     url: "https://www.youtube.com/@hyp3r00t"
+#     badge: "https://img.shields.io/badge/YouTube-hyp3r00t-FF0000?style=for-the-badge"
+
+#   - platform: "Discord"
+#     handle: "HYP3R00T"
+#     url: "https://discord.gg/tWZRBhaPhd"
+#     badge: "https://img.shields.io/badge/Discord-HYP3R00T-5865F2?style=for-the-badge"
+
+#   - platform: "Hashnode"
+#     handle: "hyperoot"
+#     url: "https://hashnode.com/@hyperoot"
+#     badge: "https://img.shields.io/badge/Hashnode-hyperoot-2962FF?style=for-the-badge"
 
 blog:
   rss_url: "https://hyperoot.dev/rss.xml"
@@ -15,31 +47,56 @@ youtube:
 
 badges:
   list:
-  - name: Python
-    url: "https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=css3&logoColor=white"
-  - name: AWS
-    url: "https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+  # DevOps & Infrastructure
+  - name: Kubernetes
+    url: "https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+  - name: k3s
+    url: "https://img.shields.io/badge/k3s-FFCC00.svg?style=for-the-badge&logo=k3s&logoColor=black"
+  - name: FluxCD
+    url: "https://img.shields.io/badge/FluxCD-0D74FF.svg?style=for-the-badge&logo=fluxcd&logoColor=white"
   - name: Docker
     url: "https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-  - name: GIT
-    url: "https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"
-  - name: LINUX
-    url: "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  - name: GitHub Actions
+    url: "https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"
+  - name: Terraform
+    url: "https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white"
+  - name: Ansible
+    url: "https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"
+  - name: Traefik
+    url: "https://img.shields.io/badge/Traefik-24A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white"
+
+  # Programming & Scripting
+  - name: Python
+    url: "https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
   - name: Bash
     url: "https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black"
-  - name: HTML5
-    url: "https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-  - name: CSS3
-    url: "https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+
+  # Web Development
+  - name: Astro
+    url: "https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white"
   - name: JavaScript
     url: "https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   - name: TypeScript
     url: "https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-  - name: Astro
-    url: "https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white"
   - name: NodeJS
     url: "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
   - name: React
     url: "https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"
   - name: TailwindCSS
     url: "https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+  - name: HTML5
+    url: "https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  - name: CSS3
+    url: "https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+
+  # Operating System & Tools
+  - name: Linux
+    url: "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  - name: Git
+    url: "https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"
+
+  # Cloud Platforms
+  - name: Azure
+    url: "https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+  - name: AWS
+    url: "https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"

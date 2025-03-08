@@ -1,1 +1,1 @@
-![{{ alt }}]({{ image }})
+<img src="{{ image }}" alt="{{ alt }}" style="width: 100vw"/>
