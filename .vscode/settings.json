@@ -2,5 +2,13 @@
     "yaml.schemas": {
         "./schema/config.schema.json": "config.yaml"
     },
-    "markdownlint.configFile": ".markdownlint.json"
+    "markdownlint.configFile": ".markdownlint.json",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "hide-files.files": []
 }
