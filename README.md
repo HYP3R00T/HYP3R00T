@@ -49,9 +49,6 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 
 ## Latest Blog Posts
-- [Deploying HashiCorp Vault on Kubernetes with Helm and Flux](https://hyperoot.substack.com/p/deploying-hashicorp-vault-on-kubernetes)
-- [The Developer's Guide to Editable Python Installs: A Workflow Revolution](https://hyperoot.substack.com/p/the-developers-guide-to-editable)
-- [SSH 101: A Beginner's Guide to Secure Shell](https://hyperoot.substack.com/p/ssh-101-a-beginners-guide-to-secure)
 
 ## Latest YouTube Videos
 
