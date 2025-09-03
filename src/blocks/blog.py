@@ -17,9 +17,14 @@ def process_blog(rss_url: str, max_posts: int = 5) -> list:
               - title: The blog post title.
               - link: The URL to the blog post.
     """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+                      " AppleWebKit/537.36 (KHTML, like Gecko)"
+                      " Chrome/127.0.0.0 Safari/537.36"
+    }
     try:
-        response = requests.get(rss_url)
-        response.raise_for_status()  # Raise an error for bad status codes
+        response = requests.get(rss_url, headers=headers, timeout=10)
+        response.raise_for_status()
     except Exception as e:
         print(f"Error fetching RSS feed: {e}")
         return []
@@ -35,12 +40,9 @@ def process_blog(rss_url: str, max_posts: int = 5) -> list:
         print("Error: No channel element found in the RSS feed")
         return []
 
-    items = channel.findall("item")
     posts = []
-    for item in items[:max_posts]:
-        title_elem = item.find("title")
-        link_elem = item.find("link")
-        title = title_elem.text if title_elem is not None else "No Title"
-        link = link_elem.text if link_elem is not None else "#"
+    for item in channel.findall("item")[:max_posts]:
+        title = item.findtext("title", "No Title")
+        link = item.findtext("link", "#")
         posts.append({"title": title, "link": link})
     return posts
