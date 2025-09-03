@@ -1,0 +1,15 @@
+[tools]
+uv = "latest"
+pre-commit = "latest"
+
+[settings]
+experimental = true
+lockfile = true
+python.uv_venv_auto = true
+idiomatic_version_file_enable_tools = ["python"]
+
+[hooks]
+enter = "bash ./scripts/setup_project.sh"
+
+[env]
+UV_LINK_MODE = "copy"
