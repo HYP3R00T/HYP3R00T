@@ -18,10 +18,13 @@ def process_blog(rss_url: str, max_posts: int = 5) -> list:
               - link: The URL to the blog post.
     """
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-                      " AppleWebKit/537.36 (KHTML, like Gecko)"
-                      " Chrome/127.0.0.0 Safari/537.36"
-    }
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/127.0.0.0 Safari/537.36",
+                  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                  "Accept-Language": "en-US,en;q=0.9",
+                  "Referer": "https://hyperoot.substack.com/"
+   }
     try:
         response = requests.get(rss_url, headers=headers, timeout=10)
         response.raise_for_status()
