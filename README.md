@@ -49,6 +49,11 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 
 ## Latest Blog Posts
+- [Minimal Arch Linux Installation](http://localhost:4321/post/arch-linux/)
+- [Test GitHub Action Pipeline Locally](http://localhost:4321/post/test-github-action-pipeline-locally/)
+- [How to Install Linux? - Part 1: Preparation](http://localhost:4321/post/how-to-install-linux-part-1-preparation/)
+- [Dockerfile Best Practices](http://localhost:4321/post/dockerfile-best-practices/)
+- [Secure your SSH Server: Best Practices](http://localhost:4321/post/securing-ssh-server/)
 
 ## Latest YouTube Videos
 
