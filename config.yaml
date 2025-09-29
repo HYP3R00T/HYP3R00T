@@ -38,7 +38,7 @@ about:
 #     badge: "https://img.shields.io/badge/Hashnode-hyperoot-2962FF?style=for-the-badge"
 
 blog:
-  rss_url: "https://hyperoot.substack.com/feed"
+  rss_url: "https://rajeshdas.dev/rss.xml"
   max_posts: 5
 
 youtube:
