@@ -50,10 +50,10 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 ## Latest Blog Posts
 - [Minimal Arch Linux Installation](https://rajeshdas.dev/post/arch-linux/)
+- [How I Structured My Documentation Navigation](https://rajeshdas.dev/post/designing-docs-navigation/)
 - [Test GitHub Action Pipeline Locally](https://rajeshdas.dev/post/test-github-action-pipeline-locally/)
 - [How to Install Linux? - Part 1: Preparation](https://rajeshdas.dev/post/how-to-install-linux-part-1-preparation/)
 - [Dockerfile Best Practices](https://rajeshdas.dev/post/dockerfile-best-practices/)
-- [Secure your SSH Server: Best Practices](https://rajeshdas.dev/post/securing-ssh-server/)
 
 ## Latest YouTube Videos
 
