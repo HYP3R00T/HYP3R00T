@@ -57,11 +57,11 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 ## Latest YouTube Videos
 
+- [Exploring DuneBorn Playtest LIVE | Early Access Desert Survival Gameplay](https://www.youtube.com/watch?v=hs1Zy7bHlEc)
 - [Bringing Code to Life - Generate Stunning Diagrams Programmatically | Efficiency Unlocked](https://www.youtube.com/watch?v=v_rcTD2O-aU)
 - [Set Up Dev Workflow on Windows](https://www.youtube.com/watch?v=CwBVM5h-thU)
 - [Unlock Lightning-Fast Searches in Kubernetes Docs! | Efficiency Unlocked](https://www.youtube.com/watch?v=vKvItF9I9Qw)
 - [Omnishare - Introduction &amp; Setup (Part 1) | Practical Projects](https://www.youtube.com/watch?v=Qe6tOWsu4o4)
-- [How to make Python type safe? | Python Quickie](https://www.youtube.com/watch?v=0GykkEEOxkA)
 
 
 ## Tech Stack
