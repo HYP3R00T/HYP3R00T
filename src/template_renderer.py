@@ -7,7 +7,7 @@ def read_custom_file(path: str) -> str:
     Returns the file content as a string.
     """
     try:
-        with open(path, "r", encoding="utf-8") as file:
+        with open(path, encoding="utf-8") as file:
             return file.read()
     except Exception as e:
         return f"<!-- Error reading file at {path}: {e} -->"
