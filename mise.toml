@@ -1,15 +1,19 @@
 [tools]
+python = "3.13"
 uv = "latest"
-pre-commit = "latest"
+ty = "latest"
+ruff = "latest"
+prek = "latest"
+gitleaks = "latest"
+shellcheck = "latest"
 
 [settings]
 experimental = true
-lockfile = true
-python.uv_venv_auto = true
 idiomatic_version_file_enable_tools = ["python"]
 
 [hooks]
-enter = "bash ./scripts/setup_project.sh"
+enter = "bash ./scripts/enter_project.sh"
 
 [env]
+_.file = ".env"       # for sensitive data
 UV_LINK_MODE = "copy"
