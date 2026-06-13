@@ -49,7 +49,7 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 
 ## Latest Blog Posts
-- [Learning Python Without Getting Lost](https://rajeshdas.dev/post/learning-python-without-getting-lost/)
+- [Learn Python Without Getting Lost](https://rajeshdas.dev/post/learning-python-without-getting-lost/)
 - [The Tiny GitHub Star Counter That Broke My UI](https://rajeshdas.dev/post/star-counter-ui-glitch/)
 - [Minimal Arch Linux Installation](https://rajeshdas.dev/post/arch-linux/)
 - [How I Structured My Documentation Navigation](https://rajeshdas.dev/post/designing-docs-navigation/)
