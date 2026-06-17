@@ -17,4 +17,4 @@ disable = [
 ]
 
 # Exclude generated or temporary content
-exclude = []
+exclude = ["templates/*"]
