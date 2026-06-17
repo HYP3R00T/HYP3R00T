@@ -1,4 +1,5 @@
 ## Latest YouTube Videos
+
 {% if videos %}
 {% for video in videos %}- [{{ video.title }}]({{ video.link }})
 {% endfor %}
