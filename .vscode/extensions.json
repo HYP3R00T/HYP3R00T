@@ -1,5 +1,16 @@
 {
   "recommendations": [
-    "davidanson.vscode-markdownlint"
+    "astral-sh.ty",
+    "charliermarsh.ruff",
+    "christian-kohler.path-intellisense",
+    "EditorConfig.EditorConfig",
+    "github.vscode-github-actions",
+    "hverlin.mise-vscode",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "redhat.vscode-yaml",
+    "rvben.rumdl",
+    "tamasfe.even-better-toml",
+    "timonwong.shellcheck"
   ]
 }
