@@ -1,10 +1,10 @@
 import os
 
-from blocks.blog import process_blog
-from blocks.youtube import process_youtube
-from config_loader import load_config
-from readme_generator import merge_blocks, write_readme
-from template_renderer import create_env, render_block
+from .blocks.blog import process_blog
+from .blocks.youtube import process_youtube
+from .config_loader import load_config
+from .readme_generator import merge_blocks, write_readme
+from .template_renderer import create_env, render_block
 
 
 def main() -> None:
