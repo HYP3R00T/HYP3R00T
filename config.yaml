@@ -3,7 +3,7 @@
 #   alt: "Banner"
 
 about:
-  path: "./blocks/about.md"
+  path: "./content/about.md"
 
 # social:
 #   links:

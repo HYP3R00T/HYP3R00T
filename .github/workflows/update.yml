@@ -37,7 +37,7 @@ jobs:
         run: uv sync --locked --all-extras --dev
 
       - name: Run script
-        run: uv run python src/main.py
+        run: uv run python -m hyp3r00t
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}

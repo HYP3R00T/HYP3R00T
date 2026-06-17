@@ -1,52 +1,11 @@
 
-# 👋 Hi, I'm Rajesh
+# Rajesh Das : Automation & DevOps Engineer
 
-I'm a **DevOps Engineer**, **Python Developer**, and **Open-Source Contributor** passionate about cloud-native automation, reproducible infrastructure, and improving developer experience.
+I build tools, workflows, and infrastructure that eliminate repetitive work.
 
-I love building internal tools, crafting streamlined setups for engineers, and experimenting with infrastructure on real hardware.
+My focus is on automation, developer productivity, internal tooling, and cloud infrastructure. I enjoy turning manual processes into reliable systems that are easy to operate, maintain, and scale.
 
-## 🏠 Homelab Adventures
-
-I self-host a **Kubernetes cluster using k3s** on a Lenovo Legion Y540. The cluster is managed end-to-end using **FluxCD (GitOps)** and runs a variety of services like Mealie, Linkding, and Vault — with **Traefik** as the ingress controller and **External Secrets Operator** for syncing secrets from Vault.
-
-The homelab is fully declarative and managed through GitOps workflows. It’s documented using **MkDocs** and serves as both a personal learning environment and a testing ground for production-grade infrastructure patterns.
-
-> 🔗 Explore: [github.com/HYP3R00T/homelab](https://github.com/HYP3R00T/homelab)
-
-## ⚙️ Dotfiles & System Bootstrapper
-
-I maintain a **cross-platform dotfiles and bootstrapping toolkit** designed to provision bare metal machines, WSL, and dev containers with minimal effort.
-
-It combines:
-
-- 🛠️ **Ansible** for OS-level package installation
-- 📦 **mise-en-place** for runtime and developer tool management
-- 🧩 **chezmoi** for templated dotfile application
-- 🧪 A strict Bash bootstrapper that auto-detects environment and applies everything idempotently
-
-> 🔗 Explore: [github.com/HYP3R00T/dotfiles](https://github.com/HYP3R00T/dotfiles)
-
-## 🛠️ What I Work On
-
-- Automating workflows with **GitHub Actions**, **Terraform**, and **Ansible**
-- Developing Python-based tools and publishing packages to **PyPI**
-- Running secure, self-hosted services using **Vault**, **Cloudflared**, and GitOps
-- Creating documentation using **MkDocs**, **Astro**, and custom site generators
-
-## 🧠 Learn in Public
-
-I believe in **learning in public**, writing great documentation, and making DevOps workflows accessible and reusable.
-
-- 📝 Blog: [Code to Clusters](https://hyperoot.substack.com/)
-- 📓 Notes: [rosetta.hyperoot.dev](https://rosetta.hyperoot.dev)
-
-## 🔍 Featured Projects
-
-- 🛰️ [CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) – A minimal, fast, and customizable docs template built with Astro, Tailwind CSS, and Shadcn UI.
-- 🧰 [dotfiles](https://github.com/HYP3R00T/dotfiles) – Cross-platform bootstrap toolkit using Ansible, mise, chezmoi, and a strict Bash orchestrator.
-- 🔐 [homelab](https://github.com/HYP3R00T/homelab) – Self-hosted Kubernetes cluster with GitOps, Traefik, Vault, and full declarative infra.
-- 🧹 [Settings Organizer](https://github.com/HYP3R00T/settings-organizer) – VSCode extension to group and declutter workspace settings across projects.
-
+[Website](https://rajeshdas.dev) • [LinkedIn](https://linkedin.com/in/rajesh-kumar-das) • [Email](mailto:hello@rajeshdas.dev)
 
 ## Latest Blog Posts
 
@@ -58,13 +17,11 @@ I believe in **learning in public**, writing great documentation, and making Dev
 
 ## Latest YouTube Videos
 
-
 - [Exploring DuneBorn Playtest LIVE | Early Access Desert Survival Gameplay](https://www.youtube.com/watch?v=hs1Zy7bHlEc)
 - [Bringing Code to Life - Generate Stunning Diagrams Programmatically | Efficiency Unlocked](https://www.youtube.com/watch?v=v_rcTD2O-aU)
 - [Set Up Dev Workflow on Windows](https://www.youtube.com/watch?v=CwBVM5h-thU)
 - [Unlock Lightning-Fast Searches in Kubernetes Docs! | Efficiency Unlocked](https://www.youtube.com/watch?v=vKvItF9I9Qw)
 - [Omnishare - Introduction &amp; Setup (Part 1) | Practical Projects](https://www.youtube.com/watch?v=Qe6tOWsu4o4)
-
 
 ## Tech Stack
 

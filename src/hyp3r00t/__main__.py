@@ -1,15 +1,19 @@
+"""Entry point for the HYP3R00T profile README generator."""
+
 import os
 
-from blocks.blog import process_blog
-from blocks.youtube import process_youtube
-from config_loader import load_config
-from readme_generator import merge_blocks, write_readme
-from template_renderer import create_env, render_block
+from hyp3r00t.blocks.blog import process_blog
+from hyp3r00t.blocks.youtube import process_youtube
+from hyp3r00t.config_loader import load_config
+from hyp3r00t.readme_generator import merge_blocks, write_readme
+from hyp3r00t.template_renderer import create_env, render_block
 
 
 def main() -> None:
-    # Define paths
-    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    # Define paths. The package lives at src/hyp3r00t/, so go up two
+    # levels to reach the repo root where config.yaml, content/, assets/
+    # and templates/ live.
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
     config_path = os.path.join(base_dir, "config.yaml")
     template_dir = os.path.join(base_dir, "templates")
     output_path = os.path.join(base_dir, "README.md")
