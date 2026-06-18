@@ -4,6 +4,8 @@ I build tools, workflows, and infrastructure that eliminate repetitive work.
 
 My focus is on automation, developer productivity, internal tooling, and cloud infrastructure. I build reliable systems that reduce operational overhead and improve developer workflows.
 
+> Currently seeking Automation, DevOps, and Platform Engineering opportunities.
+
 [Website](https://rajeshdas.dev) • [LinkedIn](https://linkedin.com/in/rajesh-kumar-das) • [Email](mailto:hello@rajeshdas.dev)
 
 ## Impact
