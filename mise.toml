@@ -18,3 +18,7 @@ enter = "bash ./scripts/enter_project.sh"
 [env]
 _.file = ".env"       # for sensitive data
 UV_LINK_MODE = "copy"
+
+[tasks.gen]
+run = "uv run -m hyp3r00t"
+description = "Generate the README file"
