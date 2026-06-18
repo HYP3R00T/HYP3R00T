@@ -2,7 +2,7 @@
 
 I build tools, workflows, and infrastructure that eliminate repetitive work.
 
-My focus is on automation, developer productivity, internal tooling, and cloud infrastructure. I enjoy turning manual processes into reliable systems that are easy to operate, maintain, and scale.
+My focus is on automation, developer productivity, internal tooling, and cloud infrastructure. I build reliable systems that reduce operational overhead and improve developer workflows.
 
 [Website](https://rajeshdas.dev) • [LinkedIn](https://linkedin.com/in/rajesh-kumar-das) • [Email](mailto:hello@rajeshdas.dev)
 
