@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main # Change this to your main branch name
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   deploy:
