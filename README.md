@@ -13,6 +13,15 @@ My focus is on automation, developer productivity, internal tooling, and cloud i
 - Achieved **20K+ PyPI package downloads**
 - Reached **1.4K+ VS Code extension installs**
 
+## Featured Projects
+
+| Project                        | Description                                                                                               |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **HyperCLI**                   | Python framework for building reusable command-line applications and automation tools.                    |
+| **VoicePad**                   | Local-first speech transcription tool designed for fast and privacy-conscious voice-to-text workflows.    |
+| **Celestial Docs**             | Documentation tooling and publishing system focused on creating and maintaining technical documentation.  |
+| **GitOps Deployment Platform** | Reference implementation of automated build, container publishing, and GitOps-based deployment workflows. |
+
 ## Latest Blog Posts
 
 - [Learn Python Without Getting Lost](https://rajeshdas.dev/post/learning-python-without-getting-lost/)
