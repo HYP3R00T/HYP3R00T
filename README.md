@@ -22,7 +22,7 @@ My focus is on automation, developer productivity, internal tooling, and cloud i
 | [**Celestial Docs**](https://github.com/HYP3R00T/CelestialDocs/)                          | Documentation tooling and publishing system for creating and maintaining technical documentation.         |
 | [**GitOps Deployment Platform**](https://github.com/HYP3R00T/gitops-deployment-platform/) | Reference implementation of automated build, container publishing, and GitOps-based deployment workflows. |
 
-## Latest Blog Posts
+## Articles
 
 - [Learn Python Without Getting Lost](https://rajeshdas.dev/post/learning-python-without-getting-lost/)
 - [The Tiny GitHub Star Counter That Broke My UI](https://rajeshdas.dev/post/star-counter-ui-glitch/)
@@ -30,12 +30,10 @@ My focus is on automation, developer productivity, internal tooling, and cloud i
 - [How I Structured My Documentation Navigation](https://rajeshdas.dev/post/designing-docs-navigation/)
 - [Test GitHub Action Pipeline Locally](https://rajeshdas.dev/post/test-github-action-pipeline-locally/)
 
-## Latest YouTube Videos
-
+## Videos
 
 - [Exploring DuneBorn Playtest LIVE | Early Access Desert Survival Gameplay](https://www.youtube.com/watch?v=hs1Zy7bHlEc)
 - [Bringing Code to Life - Generate Stunning Diagrams Programmatically | Efficiency Unlocked](https://www.youtube.com/watch?v=v_rcTD2O-aU)
 - [Set Up Dev Workflow on Windows](https://www.youtube.com/watch?v=CwBVM5h-thU)
 - [Unlock Lightning-Fast Searches in Kubernetes Docs! | Efficiency Unlocked](https://www.youtube.com/watch?v=vKvItF9I9Qw)
 - [Omnishare - Introduction &amp; Setup (Part 1) | Practical Projects](https://www.youtube.com/watch?v=Qe6tOWsu4o4)
-
