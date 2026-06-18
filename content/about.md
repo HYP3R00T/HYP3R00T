@@ -15,9 +15,9 @@ My focus is on automation, developer productivity, internal tooling, and cloud i
 
 ## Featured Projects
 
-| Project                        | Description                                                                                               |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **HyperCLI**                   | Python framework for building reusable command-line applications and automation tools.                    |
-| **VoicePad**                   | Local-first speech transcription tool designed for fast and privacy-conscious voice-to-text workflows.    |
-| **Celestial Docs**             | Documentation tooling and publishing system focused on creating and maintaining technical documentation.  |
-| **GitOps Deployment Platform** | Reference implementation of automated build, container publishing, and GitOps-based deployment workflows. |
+| Project                                                                                   | Description                                                                                               |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [**HyperCLI**](https://github.com/HYP3R00T/hypercli)                                      | Python framework for building reusable command-line applications and automation tools.                    |
+| [**VoicePad**](https://github.com/HYP3R00T/voicepad)                                      | Local-first speech transcription tool designed for fast and privacy-conscious voice-to-text workflows.    |
+| [**Celestial Docs**](https://github.com/HYP3R00T/CelestialDocs/)                          | Documentation tooling and publishing system for creating and maintaining technical documentation.         |
+| [**GitOps Deployment Platform**](https://github.com/HYP3R00T/gitops-deployment-platform/) | Reference implementation of automated build, container publishing, and GitOps-based deployment workflows. |
