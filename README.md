@@ -28,9 +28,9 @@ My focus is on automation, developer productivity, internal tooling, and cloud i
 
 - [Learn Python Without Getting Lost](https://rajeshdas.dev/post/learning-python-without-getting-lost/)
 - [The Tiny GitHub Star Counter That Broke My UI](https://rajeshdas.dev/post/star-counter-ui-glitch/)
+- [Kubernetes RBAC Made Simple: Access Control for Everyone](https://rajeshdas.dev/post/kubernetes-rbac-made-simple/)
 - [Minimal Arch Linux Installation](https://rajeshdas.dev/post/arch-linux/)
 - [How I Structured My Documentation Navigation](https://rajeshdas.dev/post/designing-docs-navigation/)
-- [Test GitHub Action Pipeline Locally](https://rajeshdas.dev/post/test-github-action-pipeline-locally/)
 
 ## Videos
 
